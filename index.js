@@ -9,6 +9,7 @@ function destructivelyUpdateObjectWithKeyAndValue(obj, key, value) {
   return obj
 }
 
+var obj { prop: 1 }
 
 
 
